@@ -1,7 +1,5 @@
 # Product-preview-card
 
-# Frontend Mentor - Product preview card component solution
-
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
@@ -34,8 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View solution on Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-vanilla-html-css-flexbox-BESTEXAMPLE)
-- Live Site URL: [Live demo on GitHub Pages](https://yourusername.github.io/product-preview-card-component)
-
+- Live Site URL: [Live demo on GitHub Pages](https://michael-okorie.github.io/Product-preview-card/)
 ## My process
 
 ### Built with
@@ -87,10 +84,10 @@ In the future, I want to:
 
 ## Author
 
-- Github - [Your Github](github.com/Michael-Okorie)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Michael-Okorie)
-- Twitter - [@yourusername](https://x.com/Dev_Michael_)
+- Github - [Michael Okorie](github.com/Michael-Okorie)
+- Frontend Mentor - [@Michael-Okorie](https://www.frontendmentor.io/profile/Michael-Okorie)
+- Twitter - [@Dev_Michael_](https://x.com/Dev_Michael_)
 
 ## Acknowledgments
 
-Huge thanks to the Frontend Mentor Discord community for always sharing tips and reviewing solutions. S
+Huge thanks to the Frontend Mentor Discord community for always sharing tips and reviewing solutions.
