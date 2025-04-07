@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View solution on Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-vanilla-html-css-flexbox-BESTEXAMPLE)
-- Live Site URL: [Live demo on GitHub Pages](https://michael-okorie.github.io/Product-preview-card/)
+- Solution URL: [View code on GitHub](https://github.com/Michael-Okorie/Product-preview-card.git)
+- Live Site URL: [Check out the live site](https://michael-okorie.github.io/Product-preview-card/)
 ## My process
 
 ### Built with
