@@ -84,7 +84,7 @@ In the future, I want to:
 
 ## Author
 
-- Github - [Michael Okorie](github.com/Michael-Okorie)
+- Github - [Michael Okorie](https://github.com/Michael-Okorie)
 - Frontend Mentor - [@Michael-Okorie](https://www.frontendmentor.io/profile/Michael-Okorie)
 - Twitter - [@Dev_Michael_](https://x.com/Dev_Michael_)
 
